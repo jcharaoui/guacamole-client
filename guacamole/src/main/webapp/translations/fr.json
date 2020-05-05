@@ -444,7 +444,7 @@
         "FIELD_OPTION_RESIZE_METHOD_EMPTY"          : "",
         "FIELD_OPTION_RESIZE_METHOD_RECONNECT"      : "Reconnecter",
 
-        "FIELD_OPTION_SECURITY_ANY"   : "Aucune",
+        "FIELD_OPTION_SECURITY_ANY"   : "Négotiation automatique",
         "FIELD_OPTION_SECURITY_EMPTY" : "",
         "FIELD_OPTION_SECURITY_NLA"   : "NLA (Network Level Authentication)",
         "FIELD_OPTION_SECURITY_RDP"   : "Chiffrement RDP",
