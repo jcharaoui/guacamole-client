@@ -291,7 +291,7 @@
 
         "ERROR_PASSWORD_MISMATCH" : "@:APP.ERROR_PASSWORD_MISMATCH",
 
-        "FIELD_HEADER_ADMINISTER_SYSTEM"             : "Administer system:",
+        "FIELD_HEADER_ADMINISTER_SYSTEM"             : "Administrateur du système:",
         "FIELD_HEADER_CHANGE_OWN_PASSWORD"           : "Modifier son propre mot de passe:",
         "FIELD_HEADER_CREATE_NEW_USERS"              : "Créer nouveaux utilisateurs:",
         "FIELD_HEADER_CREATE_NEW_USER_GROUPS"        : "Créer nouveaux groupes d'utilisateurs:",
@@ -370,7 +370,7 @@
         "FIELD_HEADER_COLOR_DEPTH"     : "Qualité couleur:",
         "FIELD_HEADER_CONSOLE"         : "Console Administrateur:",
         "FIELD_HEADER_CONSOLE_AUDIO"   : "Support son en console:",
-        "FIELD_HEADER_CREATE_DRIVE_PATH" : "Créer automatiquement un lecteur:",
+        "FIELD_HEADER_CREATE_DRIVE_PATH" : "Créer automatiquement le chemin du lecteur:",
         "FIELD_HEADER_CREATE_RECORDING_PATH" : "Créer automatiquement un chemin d'enregistrement:",
         "FIELD_HEADER_DISABLE_AUDIO"   : "Désactiver son:",
         "FIELD_HEADER_DISABLE_AUTH"    : "Désactiver authentification:",
@@ -429,8 +429,8 @@
         "FIELD_HEADER_SFTP_PORT"        : "Port:",
         "FIELD_HEADER_SFTP_PRIVATE_KEY" : "Clé privée:",
         "FIELD_HEADER_SFTP_USERNAME"    : "Identifiant:",
-        "FIELD_HEADER_STATIC_CHANNELS" : "Static channel names:",
-        "FIELD_HEADER_SFTP_ROOT_DIRECTORY"        : "Dossier racine de explorateur de fichier:",
+        "FIELD_HEADER_STATIC_CHANNELS"  : "Noms des canaux statiques:",
+        "FIELD_HEADER_SFTP_ROOT_DIRECTORY" : "Dossier racine de l'explorateur de fichier:",
         "FIELD_HEADER_USERNAME"        : "Identifiant:",
         "FIELD_HEADER_WIDTH"           : "Largeur:",
 
@@ -626,7 +626,7 @@
         "FIELD_HEADER_SFTP_PORT"        : "Port:",
         "FIELD_HEADER_SFTP_PRIVATE_KEY" : "Clé privée:",
         "FIELD_HEADER_SFTP_USERNAME"    : "Identifiant:",
-        "FIELD_HEADER_SWAP_RED_BLUE"    : "Swap red/blue components:",
+        "FIELD_HEADER_SWAP_RED_BLUE"    : "Inverser composantes rouges et bleues:",
 
         "FIELD_OPTION_COLOR_DEPTH_8"     : "256 couleurs",
         "FIELD_OPTION_COLOR_DEPTH_16"    : "Faibles couleurs (16-bit)",
