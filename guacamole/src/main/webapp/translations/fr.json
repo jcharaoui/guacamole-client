@@ -359,7 +359,7 @@
         "SECTION_HEADER_PERMISSIONS"         : "@:MANAGE_USER.SECTION_HEADER_PERMISSIONS",
         "SECTION_HEADER_USER_GROUPS"         : "Groupe Parent",
 
-        "TEXT_CONFIRM_DELETE" : "Les groupes ne peuvent pas être restaurés après leur suppression. Êtes-vous sûr de vouloir supprimer ce groupe?"
+        "TEXT_CONFIRM_DELETE" : "Les groupes ne peuvent pas être restaurés après leur suppression. Êtes-vous certains de vouloir supprimer ce groupe?"
 
     },
 
