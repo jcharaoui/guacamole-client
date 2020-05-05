@@ -271,7 +271,7 @@
         "FIELD_HEADER_NAME" : "Nom:",
         "FIELD_HEADER_PRIMARY_CONNECTION" : "Connexion Primaire:",
 
-        "SECTION_HEADER_EDIT_SHARING_PROFILE" : "Editer le Profil de Partage",
+        "SECTION_HEADER_EDIT_SHARING_PROFILE" : "Modifier le Profil de Partage",
         "SECTION_HEADER_PARAMETERS" : "Paramètres",
 
         "TEXT_CONFIRM_DELETE" : "Les profils de partage ne peuvent pas être restaurés une fois supprimés. Êtes-vous certains de vouloir supprimer ce profil de partage ?"
@@ -353,7 +353,7 @@
         "SECTION_HEADER_ALL_CONNECTIONS"     : "@:MANAGE_USER.SECTION_HEADER_ALL_CONNECTIONS",
         "SECTION_HEADER_CONNECTIONS"         : "@:MANAGE_USER.SECTION_HEADER_CONNECTIONS",
         "SECTION_HEADER_CURRENT_CONNECTIONS" : "@:MANAGE_USER.SECTION_HEADER_CURRENT_CONNECTIONS",
-        "SECTION_HEADER_EDIT_USER_GROUP"     : "Editer Groupe",
+        "SECTION_HEADER_EDIT_USER_GROUP"     : "Modifier Groupe",
         "SECTION_HEADER_MEMBER_USERS"        : "Utilisateurs Membre",
         "SECTION_HEADER_MEMBER_USER_GROUPS"  : "Groupes Membre",
         "SECTION_HEADER_PERMISSIONS"         : "@:MANAGE_USER.SECTION_HEADER_PERMISSIONS",
