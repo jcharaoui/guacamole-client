@@ -265,7 +265,7 @@
         "ACTION_DELETE"      : "@:APP.ACTION_DELETE",
         "ACTION_SAVE"        : "@:APP.ACTION_SAVE",
 
-        "DIALOG_HEADER_CONFIRM_DELETE" : "Supprimer le Partage de Connexion",
+        "DIALOG_HEADER_CONFIRM_DELETE" : "Supprimer le Profil de Partage",
         "DIALOG_HEADER_ERROR" : "@:APP.DIALOG_HEADER_ERROR",
 
         "FIELD_HEADER_NAME" : "Nom:",
@@ -297,7 +297,7 @@
         "FIELD_HEADER_CREATE_NEW_USER_GROUPS"        : "Créer nouveaux groupes d'utilisateurs:",
         "FIELD_HEADER_CREATE_NEW_CONNECTIONS"        : "Créer nouvelles connexions:",
         "FIELD_HEADER_CREATE_NEW_CONNECTION_GROUPS"  : "Créer nouveaux groupes de connexion:",
-        "FIELD_HEADER_CREATE_NEW_SHARING_PROFILES"   : "Créer nouveaux partage de connexions:",
+        "FIELD_HEADER_CREATE_NEW_SHARING_PROFILES"   : "Créer nouveaux profils de partage:",
         "FIELD_HEADER_PASSWORD"                      : "@:APP.FIELD_HEADER_PASSWORD",
         "FIELD_HEADER_PASSWORD_AGAIN"                : "@:APP.FIELD_HEADER_PASSWORD_AGAIN",
         "FIELD_HEADER_USERNAME"                      : "Identifiant:",
@@ -670,7 +670,7 @@
         "ACTION_ACKNOWLEDGE"          : "@:APP.ACTION_ACKNOWLEDGE",
         "ACTION_NEW_CONNECTION"       : "Nouvelle Connexion",
         "ACTION_NEW_CONNECTION_GROUP" : "Nouveau Groupe",
-        "ACTION_NEW_SHARING_PROFILE"  : "Nouveau Partage Profile",
+        "ACTION_NEW_SHARING_PROFILE"  : "Nouveau Profil de Partage",
 
         "DIALOG_HEADER_ERROR"          : "Erreur",
 
